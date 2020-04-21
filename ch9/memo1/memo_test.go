@@ -3,8 +3,8 @@ package memo_test
 import (
 	"testing"
 
-	"LearnGolang/src/gopl/ch9/memo1"
-	"LearnGolang/src/gopl/ch9/memotest"
+	"jay.com/gopl/ch9/memo1"
+	"jay.com/gopl/ch9/memotest"
 )
 
 var httpGetBody = memotest.HTTPGetBody

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"gopl/ch12/format"
+	"jay.com/gopl/ch12/format"
 )
 
 func Test(t *testing.T)  {

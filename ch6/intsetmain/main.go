@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"LearnGolang/src/gopl/ch6/intset"
+	"jay.com/gopl/ch6/intset"
 )
 
 func main() {

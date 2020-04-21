@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"LearnGolang/src/gopl/ch5/links"
+	"jay.com/gopl/ch5/links"
 )
 
 func breadFirst(f func(item string) []string, worklist []string) {

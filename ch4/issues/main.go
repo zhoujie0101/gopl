@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"LearnGolang/src/gopl/ch4/github"
+	"jay.com/gopl/ch4/github"
 )
 
 func main() {
